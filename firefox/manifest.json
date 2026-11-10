@@ -1,13 +1,13 @@
 {
 	"manifest_version": 2,
-	"name": "__name__",
+	"name": "__name__ (fork)",
 	"version": "__version__",
 	"description": "__description__",
 	"author": "__author__",
 	"homepage_url": "__homepage__",
 	"browser_specific_settings": {
 		"gecko": {
-			"id": "jid1-xUfzOsOFlzSOXg@jetpack",
+			"id": "res-fork@badhabit101.github.io",
 			"data_collection_permissions": {
 				"required": [
 					"none"
